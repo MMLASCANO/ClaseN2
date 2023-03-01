@@ -11,6 +11,6 @@ está aplicado localmente ¿Por qué no está? MODIFICO EL ARCHIVO DESDE LA WEB,
 6. Ahora ejecute el comando correspondiente para traer los cambios y verifique que son
 visibles.
 7. Vuelva a modificar el archivo desde la interfaz web de Github, y antes de hacer el pull,
-modifique algo DISTINTO en su copia local y haga un commit de dichos cambios.
+modifique algo DISTINTO en su copia local MODIFICO REPOSITORIO LOCAL UNA VEZ MAS y haga un commit de dichos cambios.
 8. Ahora pruebe hacer un push de sus cambios. ¿Qué sucedió? ¿ cómo puede proseguir?
 9. Arregle el problema
